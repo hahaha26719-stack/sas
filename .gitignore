@@ -1,0 +1,16 @@
+# Build output
+/build/
+app/build/
+.gradle/
+
+# Local SDK / machine-specific
+local.properties
+.android-sdk/
+
+# Keep the prebuilt APK (dist/) tracked on purpose.
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+.kiro/
